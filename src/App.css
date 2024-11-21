@@ -1,15 +1,4 @@
-/* .card {
-  display: grid;
-  grid-template-columns: repeat(10, 50px);
-  grid-template-rows: repeat(10, 50px);
-}
-.cell {
-  border: 1px solid black;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  /* height: 50px;
-  width: 50px; */
+
   .grid {
     display: grid;
     grid-template-columns: repeat(10, 50px);
